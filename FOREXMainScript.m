@@ -1,4 +1,4 @@
-%%% Main script to do ppp forex simulations
+%%% Main script to do ppp forex simulations Edited with GITHUB
 clear all; close all; format long;
 %Read CPI and Exchange rate Data Country A=US; Country B = Great Britain
 Data=xlsread('USGBData.xlsx','Sheet1','B2:D56'); 
